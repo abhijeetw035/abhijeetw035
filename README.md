@@ -8,9 +8,9 @@
 
 <div align="center">
  
-🔭 I’m currently working on **Frontend Web Development**
+🔭 I’m currently working on **Backend Web Development**
  
-🌱 I’m currently learning **Backend Web Development**
+🌱 I’m currently learning **Web Development**
 
 🎆 How to reach me **abhijeetw035@gmail.com**
 
