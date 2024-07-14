@@ -2,13 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhijeet!;" />
 </h1>
 
-<h2 align="center">A passionate Frontend Web developer</h2>
+<h2 align="center">A passionate Mern Stack Web developer from India</h2>
 
 <br/>
 
 <div align="center">
  
-🔭 I’m currently working on **Backend Web Development**
+🔭 I’m currently working on **Mern Stack Projects**
  
 🌱 I’m currently learning **Web Development**
 
