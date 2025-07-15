@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhijeet!;" />
 </h1>
 
-<h2 align="center">A passionate Full Stack Web developer</h2>
+<h2 align="center">A passionate Full Stack Developer</h2>
 
 <br/>
 
@@ -10,11 +10,11 @@
  
 🔭 I’m currently working on **Full Stack Projects**
  
-🌱 I’m currently learning **Web Development**
+🌱 I’m currently learning **Cloud/DevOps**
 
 🎆 How to reach me **abhijeetw035@gmail.com**
 
-💬 Ask me about **JS, React, Firebase...**
+💬 Ask me about **JS, Next, Angular...**
 
 ⚡ Fun fact **The original name for JavaScript was Mocha!**
 
@@ -36,8 +36,9 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,graphql,cloudflare,mysql,tailwind,javascript,react,prisma" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,nextjs,firebase,py,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,graphql,cloudflare,mysql,tailwind,javascript,react,prisma,angular,spring,githubactions" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nginx,typescript,nextjs,redis,aws,kubernetes,firebase,py,github,git,arch,postman" /><br>
+	
 </div>
 
 <br/>
